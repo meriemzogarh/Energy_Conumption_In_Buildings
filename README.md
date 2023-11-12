@@ -20,7 +20,7 @@ cd Energy_Conumption_In_Buildings
 
 #### Install Dependencies:
 
-pip install -r requirements.txt
+pip install -r requirements.txt #requirements.txt is located in : Energy_Conumption_In_Buildings/EnergyConsumptionInBuildings_NN_PSO_CUDA/code/
 
 Ensure that you have a compatible CUDA-enabled GPU for optimal performance.
 
