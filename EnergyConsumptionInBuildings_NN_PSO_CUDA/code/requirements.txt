@@ -1,0 +1,16 @@
+# requirements.txt
+
+# CUDA-related libraries
+cupy-cuda12x==12.2.0
+
+# PSO-related libraries
+pyswarms==1.3.0
+
+# Neural network libraries
+pytorch==2.0.1
+
+# Other dependencies
+numpy==1.24.3
+scikit-learn==1.0.2
+seaborn==0.11.2
+matplotlib==3.5.2
